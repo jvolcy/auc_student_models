@@ -1,0 +1,7 @@
+int_BlitzNumber,str_Question,enum_QType,str_AnswerA,float_PointsA,str_AnswerB,float_PointsB,str_AnswerC,float_PointsC,str_AnswerD,float_PointsD,bool_ScrambleAnswers,str_ImageURL
+1,<color=#FF8888>W</color>hich corresponds to the prefix Mega?,SingleSelect,Thousand,0,Million,100,Billion,0,Trillion,0,FALSE,
+2,<color=#FF8888>T</color>he keywords private and public are examples of,SingleSelect,access control,100,scope,0,rank,0,global specifiers,0,TRUE,https://drive.google.com/uc?id=16O4w_AjTQjk9XeiKK6kK6k_ykswraj6x
+3,<color=#FF8888>T</color>he places in code where a variable can be accessed is called the variable’s,SingleSelect,scope,100,range,0,latitude,0,domain,0,TRUE,
+5,<color=#FF8888>A</color> prefab is,SingleSelect,a blueprint for making GOs,100,a function that implements a math formula,0,a GO that has been replicated multiple times,0,all of these,0,TRUE,
+6,<color=#FF8888>W</color>hich of the following will make a variable accessible in the inspector?,MultiSelect,[SerializeField],33.33,public specifier,33.33,[ShowInInspector],33.33,static specifier,-33.33,TRUE,https://drive.google.com/uc?id=1_sV_LKIFz13Q8UlKmEDy1w5gEIDJ9YE9
+7,"<color=#FF8888>H</color>ere is an example of a question containing a comma (,).  How will this work?",SingleSelect,Works Great,100,Doesn't work,0,,,,,FALSE,
